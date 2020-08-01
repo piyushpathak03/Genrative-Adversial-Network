@@ -21,8 +21,6 @@ Result after 80 epochs :
 
 ![alt text](./Output/80.png)
 
-
-
 # 📫 Follw me: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-PiyushPathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushpathak03/)](https://www.linkedin.com/in/piyushpathak03/)
